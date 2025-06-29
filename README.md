@@ -17,6 +17,7 @@
 </p>
 
 ---
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was originally created for [ChatGPT](https://chat.openai.com/chat), these prompts work great with other AI models like [Claude](https://claude.ai/new), [Gemini](https://gemini.google.com), [Hugging Face Chat](https://hf.co/chat), [Llama](https://meta.ai), [Mistral](https://chat.mistral.ai), and more.
@@ -34,6 +35,7 @@ We hope you find these prompts useful and have fun exploring AI chat models!
 **[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
 
 ---
+
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
 
@@ -57,6 +59,7 @@ I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating 
 
 ---
 
+
 ### Using prompts.chat
 
 [prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences.
@@ -65,13 +68,21 @@ I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating 
 
 ---
 
+
 ## Unmerged Prompts
 
 There are many Pull Requests to this repository waiting to be merged. There are many hidden gems there. Take a look!
 
 📖 **[View Unmerged Prompts](https://github.com/f/awesome-chatgpt-prompts/pulls)**
 
+### Additional Scripts
+
+Utilities in the `scripts/` folder can help explore ideas alongside these prompts.
+For example, `scripts/solana_wallet_tracker.py` traces SOL transfers from a starting wallet across multiple hops via the public Solana RPC API.
+
+
 ---
+
 
 # Prompts
 
